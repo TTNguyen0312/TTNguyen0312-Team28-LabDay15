@@ -24,10 +24,10 @@ Nguyễn Việt Quang - 2A202600243
 
 | Thành viên | MSSV | Track Phase 2 |
 |---|---|---|
-| Nguyễn Trọng Tiến | 2A202600228 | AI & Data Infrastructure |
-| Nguyễn Thị Ngọc | 2A202600405 | AI & Data Infrastructure |
-| Trương Quang Lộc | 2A202600333 | AI & Data Infrastructure |
-| Vũ Đức Minh | 2A202600459 | AI & Data Infrastructure |
-| Nguyễn Việt Quang | 2A202600243 | AI & Data Infrastructure |
+| Nguyễn Trọng Tiến | 2A202600228 | AI Product Management |
+| Nguyễn Thị Ngọc | 2A202600405 | AI Product Management |
+| Trương Quang Lộc | 2A202600333 | AI Applications |
+| Vũ Đức Minh | 2A202600459 | AI Applications |
+| Nguyễn Việt Quang | 2A202600243 | AI Applications |
 
 ---
